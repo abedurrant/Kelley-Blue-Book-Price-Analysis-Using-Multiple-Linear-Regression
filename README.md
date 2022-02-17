@@ -1,4 +1,4 @@
-# HOW MUCH IS YOUR CAR WORTH?
+# How much is your car worth?
 For over 90 years, Kelley Blue Book (KBB) has been the trusted resource for used car values,
 helping car owners understand what their used car is worth. The “blue book value” of the car is
 determined by actual sales transactions and auction prices, which are then analyzed and adjusted
